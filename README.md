@@ -14,6 +14,10 @@ MandiBook is an e-commerce platform that provides an intuitive shopping experien
 You can view the live demo of the project at:
 [https://sithala-sai-vamshi.github.io/MandiBook/](https://sithala-sai-vamshi.github.io/MandiBook/)
 
+## Preview
+
+![MandiBook Preview](https://sithala-sai-vamshi.github.io/MandiBook/Path/Page%201.png)
+
 ## Technologies Used
 
 - **HTML**: Markup for the structure of the website.
