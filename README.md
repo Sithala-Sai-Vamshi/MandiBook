@@ -16,7 +16,7 @@ You can view the live demo of the project at:
 
 ## Preview
 
-![MandiBook Preview](images/Page 1.png)
+![MandiBook Preview](images/Page.png)
 
 ## Technologies Used
 
