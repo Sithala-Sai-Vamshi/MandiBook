@@ -16,7 +16,7 @@ You can view the live demo of the project at:
 
 ## Preview
 
-![MandiBook Preview](https://sithala-sai-vamshi.github.io/MandiBook/Path/Page%201.png)
+![MandiBook Preview](https://sithala-sai-vamshi.github.io/MandiBook/Path/Page 1.png)
 
 ## Technologies Used
 
